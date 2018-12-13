@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "417879311183",
+    "firebase_url": "https://test-8d23f.firebaseio.com",
+    "project_id": "test-8d23f",
+    "storage_bucket": "test-8d23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417879311183:android:9cf17f4ecc4ce51f",
+        "android_client_info": {
+          "package_name": "com.nombox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417879311183-bcd40s3cpt0t3sih1ckovggjlq08r54d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fPoGMWZq5g7_FOUmGFcPylN4BQrVBVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
