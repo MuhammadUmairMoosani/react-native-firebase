@@ -5,13 +5,13 @@
  */
 
 import React, { Component } from 'react';
-import firebase from 'react-native-firebase';
 import {
   Platform,
   StyleSheet,
   Text,
   View
 } from 'react-native';
+import SignIn from './src/components/signin'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -25,7 +25,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-      <Text>Hello</Text>
+      <SignIn/>
       </View>
     );
   }
